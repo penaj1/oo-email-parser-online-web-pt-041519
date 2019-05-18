@@ -6,7 +6,7 @@
 class EmailParser
   
   def parse
-    
+    self.new
     
   end
 
