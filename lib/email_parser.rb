@@ -5,10 +5,10 @@
 
 class EmailParser
   
-  @email = 
+  @emails = "john@doe.com, person@somewhere.org"
   
   def initialize
-    @email = email
+    @emails = email
   
 end
 
