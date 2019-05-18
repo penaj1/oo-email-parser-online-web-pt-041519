@@ -7,8 +7,6 @@ class EmailParser
   
   attr_acessor :email
   
-  @emails = "john@doe.com, person@somewhere.org"
-  
   def initialize
     @emails = email
   end
