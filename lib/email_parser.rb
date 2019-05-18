@@ -5,13 +5,13 @@
 
 class EmailParser
   
-  attr_accessor :email
+  attr_accessor :emails
   
-  def initazlie
-    @email = email
+  def initazlie(emails)
+    @emails = emails
+  end
   
   def parse
-    self.new_from_csv(csv_data)
     
   end
 
