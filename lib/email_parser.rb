@@ -9,6 +9,7 @@ class EmailParser
   
   def initialize
     @emails = email
+  end
   
 end
 
