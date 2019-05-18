@@ -5,6 +5,7 @@
 
 class EmailParser
   
+  def initalize 
   
 end
 
