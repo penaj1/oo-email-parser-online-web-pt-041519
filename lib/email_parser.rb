@@ -12,7 +12,7 @@ class EmailParser
   end
   
   def parse
-    puts splitEmail = email.split
+    puts splitEmail = email.split.collect
   end
 
 end
